@@ -1,14 +1,14 @@
 {
   "name": "kaliapay",
   "version": "1.0.0",
-  "description": "Module de paiement de kaliapay simplifié en JQuery",
+  "description": "Module de paiement de kaliapay simplifié avec javascript",
   "main": "KaliaPay.js",
   "scripts": {
     "test": "npm test"
   },
   "keywords": [
     "kaliapay",
-    "JQuery"
+    "javascript"
   ],
   "author": "MKS",
   "license": "",
