@@ -2,11 +2,11 @@
 
 Un module de paiement pour intégrer KaliaPay dans votre application de manière simplifiée en JQuery.
 
-VOus pouvez accéder au CDN via ce lien que vous devez mettre dans votre code : https://cdn.jsdelivr.net/gh/Kaliapay/kaliapay-JQuery/KaliaPay.js
+Vous pouvez accéder au CDN via ce lien que vous devez mettre dans votre code: ```<script src="https://cdn.jsdelivr.net/gh/Kaliapay/kaliapay-JQuery/KaliaPay.js"></script>```
 
 ## Préréquis
 
-Pour utiliser ce module, il faut vous télécharger Ajax.
+Pour utiliser ce module, il faut inclure Jquery dans votre code comme suit: ```<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>```
 
 #### 1. Avoir un compte kaliapay
 
