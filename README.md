@@ -4,7 +4,7 @@ Un module de paiement pour intégrer KaliaPay dans votre application de manière
 
 ## Préréquis
 
-Pour utiliser ce module, il faut vous télécharger Axios.
+Pour utiliser ce module, il faut vous télécharger Ajax.
 
 #### 1. Avoir un compte kaliapay
 
